@@ -1,4 +1,4 @@
 TProfiler
 =========
 
-TProfiler是一个可以在生产环境长期使用的性能分析工具
+This project has been transfered to https://github.com/alibaba/TProfiler
